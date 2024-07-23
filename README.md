@@ -1,9 +1,15 @@
 # Web3 Reward System
 
 This project is a Web3 application built with Hardhat and Next.js. The project includes a smart contract (`RewardToken`) deployed on the Moonbase network, and a frontend application that interacts with the smart contract using Metamask.
+This is just just an small part of the main application which can be found here https://github.com/fitclash
+Demo is https://fitclash.vercel.app/?call=2&number=962
+
+
 ## Overview
 
-The Web3 Reward System allows users to connect their Metamask wallet, complete a milestone (e.g., star jumps), and mint reward tokens upon reaching the milestone. The smart contract is deployed on the Moonbase Alpha test network.
+The Web3 Reward System allows users to connect their Metamask wallet, complete a milestone (e.g., star jumps), and mint reward tokens upon reaching the milestone. The smart contract is deployed on the Moonbase test network.
+This is just just an small part of the main application which can be found here https://github.com/fitclash
+Demo is https://fitclash.vercel.app/?call=2&number=962
 
 ## Prerequisites
 
