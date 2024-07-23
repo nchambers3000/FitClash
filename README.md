@@ -1,6 +1,6 @@
 # Web3 Reward System
 
-This project is a Web3 application built with Hardhat and Next.js. The project includes a smart contract (`RewardToken`) deployed on the Moonbase Alpha network, and a frontend application that interacts with the smart contract using Metamask.
+This project is a Web3 application built with Hardhat and Next.js. The project includes a smart contract (`RewardToken`) deployed on the Moonbase network, and a frontend application that interacts with the smart contract using Metamask.
 ## Overview
 
 The Web3 Reward System allows users to connect their Metamask wallet, complete a milestone (e.g., star jumps), and mint reward tokens upon reaching the milestone. The smart contract is deployed on the Moonbase Alpha test network.
